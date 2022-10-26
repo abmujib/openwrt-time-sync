@@ -4,7 +4,7 @@ Cara sinkronisasi waktu dan tanggal pada OpenWrt.
 ### Download Script
 
 ```sh
-wget -O /usr/bin/waktu https://raw.githubusercontent.com/abmujib/waktu/master/waktu.sh && chmod +x /usr/bin/waktu
+wget -O /usr/bin/waktu https://raw.githubusercontent.com/abmujib/openwrt-time-sync/master/waktu.sh && chmod +x /usr/bin/waktu
 ```
 
 ### Edit Script
